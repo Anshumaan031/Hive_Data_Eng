@@ -1,0 +1,5 @@
+create table acid_example  
+
+(sno int, name string, city string) 
+
+clustered by (city) into 3 buckets row format delimited fields terminated by ',' lines terminated by '\n'
