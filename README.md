@@ -9,7 +9,7 @@ One of the key features of Hive is its ability to handle large-scale datasets ef
 
 ![image](https://github.com/Anshumaan031/Hive_Data_Eng/assets/67821036/34e32500-b696-43ea-8538-79d235c884db)
 
-Download Hadoop from here: https://downloads.apache.org/hive/hive-3.1.2/
+Download Hive from here: https://downloads.apache.org/hive/hive-3.1.2/
 
 Download mysql jar connector maven: https://mvnrepository.com/artifact/mysql/mysql-connector-java
 
