@@ -26,7 +26,7 @@ mysql -u root -p
 ```
 This command changes the password for the user root and sets the authentication method to 'root'.
 
- open bachrc file to source the hadoop and java files 
+ open bachrc file to source the hive files 
 ```bash
 vi .bashrc (Set the java Path in your Home Path)
 
