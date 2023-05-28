@@ -7,7 +7,7 @@ Hive was developed to provide a high-level abstraction layer for querying and an
 One of the key features of Hive is its ability to handle large-scale datasets efficiently by parallelizing the data processing across multiple nodes in a Hadoop cluster. It also supports schema evolution, allowing users to add, modify, or delete columns from existing tables without the need for extensive data movement.
 
 
-![Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AApache_Hive_logo.svg&psig=AOvVaw1wEm8BkIirvVKd4HdlZPav&ust=1685330220394000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPiDyLqGl_8CFQAAAAAdAAAAABAE)
+![image](https://github.com/Anshumaan031/Hive_Data_Eng/assets/67821036/34e32500-b696-43ea-8538-79d235c884db)
 
 Download Hadoop from here: https://downloads.apache.org/hive/hive-3.1.2/
 
